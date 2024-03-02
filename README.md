@@ -1,0 +1,2 @@
+# tozil
+testnet
